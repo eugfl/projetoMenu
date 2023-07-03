@@ -1,7 +1,7 @@
 <strong><h1 align="center">Projeto Menu</h1></strong>
 
 <p align="center">
-  <img alt="" src="./github/preview.gif" width="100%">
+  <img alt="" src=".github/preview.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
